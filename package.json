@@ -1,0 +1,26 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "this is a test ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ketzia/TestBack.git"
+  },
+  "author": "Ketzia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ketzia/TestBack/issues"
+  },
+  "homepage": "https://github.com/ketzia/TestBack#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "bower": "^1.8.0",
+    "dotenv": "^4.0.0",
+    "express": "^4.15.4",
+    "mongoose": "^4.11.7"
+  }
+}

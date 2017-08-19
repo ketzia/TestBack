@@ -1,0 +1,8 @@
+{
+  "name": "hello",
+  "private": "true",
+  "devDependencies": {},
+  "dependencies": {
+    "angular": "^1.6.6"
+  }
+}
